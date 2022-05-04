@@ -2,8 +2,8 @@
 - 👀 I’m interested in Sociology, Data Analytics, Data Science, and all about the Data
 - 🌱 I’m currently learning Python, SQL, R, and Machine Learning
 - 📫 How to reach me :
-  Email : yokiwr@gmail.com
-  LinkedIn: Ryandika Yoki Wiranata
+  #Email : yokiwr@gmail.com
+  #LinkedIn: Ryandika Yoki Wiranata
   
 
 <!---
